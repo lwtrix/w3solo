@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 10px;
+}
+
+body {
+    font-size: 1.6rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.questions-container {
+    width: 90vw;
+    padding: 1.5rem;
+    margin: 0 auto;
+    color: #22223b;
+}
+
+.question-container {
+    padding: 15px 30px;
+    margin: 10px;
+    background-color: #c5b7f0;
+    border: 2px solid #22223b;
+    position: relative;
+}
+
+.question-text {
+    margin-bottom: 15px;
+}
+
+.question-type {
+    font-size: 1.2rem;
+    margin-bottom: 15px;
+}
+
+
+
+
+
